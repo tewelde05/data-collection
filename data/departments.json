@@ -1,0 +1,32 @@
+[
+    {
+        "department_id":1,
+        "department_name":"Software Engineering",
+        "work_location":"Toronto",
+        "annual_budget":4200000
+    },
+    {
+        "department_id":2,
+        "department_name":"Cybersecurity",
+        "work_location":"Waterloo",
+        "annual_budget":2800000
+    },
+    {
+        "department_id":3,
+        "department_name":"Data and Analytics",
+        "work_location":"Ottawa",
+        "annual_budget":3200000
+    },
+    {
+        "department_id":4,
+        "department_name":"IT Operations",
+        "work_location":"Kitchener",
+        "annual_budget":2100000
+    },
+    {
+        "department_id":5,
+        "department_name":"Cloud Infrastructure",
+        "work_location":"Vancouver",
+        "annual_budget":3500000
+    }
+]

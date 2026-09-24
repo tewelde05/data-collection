@@ -1,0 +1,51 @@
+employee_id,name,position,start_date,salary,department_id
+1,Allison Hill,Software Engineer,2015-03-28,89184,1
+2,Brian Yang,Data Analyst,2016-07-30,66556,2
+3,Unknown Employee,Cybersecurity Analyst,2017-03-26,132097,3
+4,Lance Hoffman,Cloud Engineer,2018-10-06,124196,4
+5,Kimberly Robinson,Data Analyst,2019-08-17,118513,5
+6,Sean Blake,Database Administrator,2020-03-03,96579,1
+7,Gina Moore,Software Engineer,2020-01-01,86868,2
+8,Brandon Davis,Data Analyst,2022-11-26,118513,3
+9,Dennis Williams,Cybersecurity Analyst,2023-06-28,170604,4
+10,Valerie Gray,Software Engineer,2024-08-02,68331,5
+11,Mark Mcclure,IT Support Specialist,2015-05-21,67811,1
+12,Michele Williams,Database Administrator,2016-03-29,84561,2
+13,Victoria Wyatt,Software Engineer,2017-12-03,60000,3
+14,Donald Reid,Data Analyst,2018-05-22,120990,4
+15,Henry Santiago,IT Support Specialist,2019-09-30,192475,5
+16,Maria Lynch,Cloud Engineer,2020-01-01,66956,1
+17,Danielle Ford,IT Support Specialist,2021-04-15,112124,2
+18,Margaret Hawkins DDS,Database Administrator,2022-11-24,169974,3
+19,Amy Underwood,Software Engineer,2023-11-09,200000,4
+20,Derek Clark,Data Analyst,2024-08-08,177757,5
+21,John Smith,Cybersecurity Analyst,2015-06-03,132926,1
+22,Maria Thomas,Cloud Engineer,2016-02-24,61703,2
+23,Justin Baker,IT Support Specialist,2017-08-16,101853,3
+24,Kevin Cox,Database Administrator,2018-02-23,170785,4
+25,Ann Williams,Software Engineer,2019-02-12,149194,5
+26,Christopher Becker,Data Analyst,2020-08-19,132842,1
+27,James Ferrell,Cybersecurity Analyst,2021-07-25,100758,2
+28,Juan Dunlap,Cloud Engineer,2022-09-22,116443,3
+29,Melanie Herrera,IT Support Specialist,2023-04-14,148236,4
+30,Gina Carter,Database Administrator,2024-03-02,86793,5
+31,Troy Liu,Software Engineer,2015-04-13,84312,1
+32,Pamela Romero,Data Analyst,2016-02-11,159595,2
+33,Elizabeth Fowler,Cybersecurity Analyst,2017-08-25,85353,3
+34,James Martin,Cloud Engineer,2018-10-30,154104,4
+35,Tamara George,IT Support Specialist,2019-07-09,150165,5
+36,Timothy Koch,Database Administrator,2020-11-18,129342,1
+37,Cynthia Allen,Software Engineer,2021-08-09,71390,2
+38,Angelica Tucker,Data Analyst,2022-01-27,180435,3
+39,Kim Martinez,Cybersecurity Analyst,2023-09-14,92722,4
+40,Joshua Baker,Cloud Engineer,2024-12-04,159230,5
+41,Tracey Hickman,IT Support Specialist,2015-10-21,80656,1
+42,Christina Collins,Database Administrator,2016-09-17,136854,2
+43,Jessica Holmes,Software Engineer,2017-02-16,154800,3
+44,Austin Smith,Data Analyst,2018-08-04,110407,4
+45,Daniel Jones,Cybersecurity Analyst,2019-09-03,78233,5
+46,Austin Johnson,Cloud Engineer,2020-05-08,72012,1
+47,David Caldwell,IT Support Specialist,2021-03-25,119742,2
+48,Miranda Khan,Database Administrator,2022-08-12,135861,3
+49,Richard Aguirre,Software Engineer,2023-03-15,80916,4
+50,Matthew Gomez,Data Analyst,2024-06-08,121024,5

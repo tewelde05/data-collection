@@ -1,0 +1,72 @@
+[
+    {
+        "column_name":"employee_id",
+        "source_table":"employees",
+        "data_type":"Integer",
+        "constraint":"Primary key",
+        "description":"Unique employee identifier"
+    },
+    {
+        "column_name":"name",
+        "source_table":"employees",
+        "data_type":"String",
+        "constraint":"Required",
+        "description":"Employee's full name"
+    },
+    {
+        "column_name":"position",
+        "source_table":"employees",
+        "data_type":"String",
+        "constraint":"Required",
+        "description":"Employee's IT-related job title"
+    },
+    {
+        "column_name":"start_date",
+        "source_table":"employees",
+        "data_type":"Date",
+        "constraint":"2015\u20132024",
+        "description":"Date the employee started working"
+    },
+    {
+        "column_name":"salary",
+        "source_table":"employees",
+        "data_type":"Integer",
+        "constraint":"$60,000\u2013$200,000",
+        "description":"Employee's annual salary"
+    },
+    {
+        "column_name":"department_id",
+        "source_table":"employees",
+        "data_type":"Integer",
+        "constraint":"Foreign key",
+        "description":"References departments.department_id"
+    },
+    {
+        "column_name":"department_id",
+        "source_table":"departments",
+        "data_type":"Integer",
+        "constraint":"Primary key",
+        "description":"Unique department identifier"
+    },
+    {
+        "column_name":"department_name",
+        "source_table":"departments",
+        "data_type":"String",
+        "constraint":"Required and unique",
+        "description":"Name of the department"
+    },
+    {
+        "column_name":"work_location",
+        "source_table":"departments",
+        "data_type":"String",
+        "constraint":"Required",
+        "description":"City where the department is located"
+    },
+    {
+        "column_name":"annual_budget",
+        "source_table":"departments",
+        "data_type":"Integer",
+        "constraint":"Greater than zero",
+        "description":"Department's annual budget"
+    }
+]

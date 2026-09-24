@@ -1,0 +1,11 @@
+column_name,source_table,data_type,constraint,description
+employee_id,employees,Integer,Primary key,Unique employee identifier
+name,employees,String,Required,Employee's full name
+position,employees,String,Required,Employee's IT-related job title
+start_date,employees,Date,2015–2024,Date the employee started working
+salary,employees,Integer,"$60,000–$200,000",Employee's annual salary
+department_id,employees,Integer,Foreign key,References departments.department_id
+department_id,departments,Integer,Primary key,Unique department identifier
+department_name,departments,String,Required and unique,Name of the department
+work_location,departments,String,Required,City where the department is located
+annual_budget,departments,Integer,Greater than zero,Department's annual budget

@@ -1,0 +1,402 @@
+[
+    {
+        "employee_id":1,
+        "name":"Allison Hill",
+        "position":"Software Engineer",
+        "start_date":"2015-03-28T00:00:00.000",
+        "salary":89184,
+        "department_id":1
+    },
+    {
+        "employee_id":2,
+        "name":"Brian Yang",
+        "position":"Data Analyst",
+        "start_date":"2016-07-30T00:00:00.000",
+        "salary":66556,
+        "department_id":2
+    },
+    {
+        "employee_id":3,
+        "name":"Unknown Employee",
+        "position":"Cybersecurity Analyst",
+        "start_date":"2017-03-26T00:00:00.000",
+        "salary":132097,
+        "department_id":3
+    },
+    {
+        "employee_id":4,
+        "name":"Lance Hoffman",
+        "position":"Cloud Engineer",
+        "start_date":"2018-10-06T00:00:00.000",
+        "salary":124196,
+        "department_id":4
+    },
+    {
+        "employee_id":5,
+        "name":"Kimberly Robinson",
+        "position":"Data Analyst",
+        "start_date":"2019-08-17T00:00:00.000",
+        "salary":118513,
+        "department_id":5
+    },
+    {
+        "employee_id":6,
+        "name":"Sean Blake",
+        "position":"Database Administrator",
+        "start_date":"2020-03-03T00:00:00.000",
+        "salary":96579,
+        "department_id":1
+    },
+    {
+        "employee_id":7,
+        "name":"Gina Moore",
+        "position":"Software Engineer",
+        "start_date":"2020-01-01T00:00:00.000",
+        "salary":86868,
+        "department_id":2
+    },
+    {
+        "employee_id":8,
+        "name":"Brandon Davis",
+        "position":"Data Analyst",
+        "start_date":"2022-11-26T00:00:00.000",
+        "salary":118513,
+        "department_id":3
+    },
+    {
+        "employee_id":9,
+        "name":"Dennis Williams",
+        "position":"Cybersecurity Analyst",
+        "start_date":"2023-06-28T00:00:00.000",
+        "salary":170604,
+        "department_id":4
+    },
+    {
+        "employee_id":10,
+        "name":"Valerie Gray",
+        "position":"Software Engineer",
+        "start_date":"2024-08-02T00:00:00.000",
+        "salary":68331,
+        "department_id":5
+    },
+    {
+        "employee_id":11,
+        "name":"Mark Mcclure",
+        "position":"IT Support Specialist",
+        "start_date":"2015-05-21T00:00:00.000",
+        "salary":67811,
+        "department_id":1
+    },
+    {
+        "employee_id":12,
+        "name":"Michele Williams",
+        "position":"Database Administrator",
+        "start_date":"2016-03-29T00:00:00.000",
+        "salary":84561,
+        "department_id":2
+    },
+    {
+        "employee_id":13,
+        "name":"Victoria Wyatt",
+        "position":"Software Engineer",
+        "start_date":"2017-12-03T00:00:00.000",
+        "salary":60000,
+        "department_id":3
+    },
+    {
+        "employee_id":14,
+        "name":"Donald Reid",
+        "position":"Data Analyst",
+        "start_date":"2018-05-22T00:00:00.000",
+        "salary":120990,
+        "department_id":4
+    },
+    {
+        "employee_id":15,
+        "name":"Henry Santiago",
+        "position":"IT Support Specialist",
+        "start_date":"2019-09-30T00:00:00.000",
+        "salary":192475,
+        "department_id":5
+    },
+    {
+        "employee_id":16,
+        "name":"Maria Lynch",
+        "position":"Cloud Engineer",
+        "start_date":"2020-01-01T00:00:00.000",
+        "salary":66956,
+        "department_id":1
+    },
+    {
+        "employee_id":17,
+        "name":"Danielle Ford",
+        "position":"IT Support Specialist",
+        "start_date":"2021-04-15T00:00:00.000",
+        "salary":112124,
+        "department_id":2
+    },
+    {
+        "employee_id":18,
+        "name":"Margaret Hawkins DDS",
+        "position":"Database Administrator",
+        "start_date":"2022-11-24T00:00:00.000",
+        "salary":169974,
+        "department_id":3
+    },
+    {
+        "employee_id":19,
+        "name":"Amy Underwood",
+        "position":"Software Engineer",
+        "start_date":"2023-11-09T00:00:00.000",
+        "salary":200000,
+        "department_id":4
+    },
+    {
+        "employee_id":20,
+        "name":"Derek Clark",
+        "position":"Data Analyst",
+        "start_date":"2024-08-08T00:00:00.000",
+        "salary":177757,
+        "department_id":5
+    },
+    {
+        "employee_id":21,
+        "name":"John Smith",
+        "position":"Cybersecurity Analyst",
+        "start_date":"2015-06-03T00:00:00.000",
+        "salary":132926,
+        "department_id":1
+    },
+    {
+        "employee_id":22,
+        "name":"Maria Thomas",
+        "position":"Cloud Engineer",
+        "start_date":"2016-02-24T00:00:00.000",
+        "salary":61703,
+        "department_id":2
+    },
+    {
+        "employee_id":23,
+        "name":"Justin Baker",
+        "position":"IT Support Specialist",
+        "start_date":"2017-08-16T00:00:00.000",
+        "salary":101853,
+        "department_id":3
+    },
+    {
+        "employee_id":24,
+        "name":"Kevin Cox",
+        "position":"Database Administrator",
+        "start_date":"2018-02-23T00:00:00.000",
+        "salary":170785,
+        "department_id":4
+    },
+    {
+        "employee_id":25,
+        "name":"Ann Williams",
+        "position":"Software Engineer",
+        "start_date":"2019-02-12T00:00:00.000",
+        "salary":149194,
+        "department_id":5
+    },
+    {
+        "employee_id":26,
+        "name":"Christopher Becker",
+        "position":"Data Analyst",
+        "start_date":"2020-08-19T00:00:00.000",
+        "salary":132842,
+        "department_id":1
+    },
+    {
+        "employee_id":27,
+        "name":"James Ferrell",
+        "position":"Cybersecurity Analyst",
+        "start_date":"2021-07-25T00:00:00.000",
+        "salary":100758,
+        "department_id":2
+    },
+    {
+        "employee_id":28,
+        "name":"Juan Dunlap",
+        "position":"Cloud Engineer",
+        "start_date":"2022-09-22T00:00:00.000",
+        "salary":116443,
+        "department_id":3
+    },
+    {
+        "employee_id":29,
+        "name":"Melanie Herrera",
+        "position":"IT Support Specialist",
+        "start_date":"2023-04-14T00:00:00.000",
+        "salary":148236,
+        "department_id":4
+    },
+    {
+        "employee_id":30,
+        "name":"Gina Carter",
+        "position":"Database Administrator",
+        "start_date":"2024-03-02T00:00:00.000",
+        "salary":86793,
+        "department_id":5
+    },
+    {
+        "employee_id":31,
+        "name":"Troy Liu",
+        "position":"Software Engineer",
+        "start_date":"2015-04-13T00:00:00.000",
+        "salary":84312,
+        "department_id":1
+    },
+    {
+        "employee_id":32,
+        "name":"Pamela Romero",
+        "position":"Data Analyst",
+        "start_date":"2016-02-11T00:00:00.000",
+        "salary":159595,
+        "department_id":2
+    },
+    {
+        "employee_id":33,
+        "name":"Elizabeth Fowler",
+        "position":"Cybersecurity Analyst",
+        "start_date":"2017-08-25T00:00:00.000",
+        "salary":85353,
+        "department_id":3
+    },
+    {
+        "employee_id":34,
+        "name":"James Martin",
+        "position":"Cloud Engineer",
+        "start_date":"2018-10-30T00:00:00.000",
+        "salary":154104,
+        "department_id":4
+    },
+    {
+        "employee_id":35,
+        "name":"Tamara George",
+        "position":"IT Support Specialist",
+        "start_date":"2019-07-09T00:00:00.000",
+        "salary":150165,
+        "department_id":5
+    },
+    {
+        "employee_id":36,
+        "name":"Timothy Koch",
+        "position":"Database Administrator",
+        "start_date":"2020-11-18T00:00:00.000",
+        "salary":129342,
+        "department_id":1
+    },
+    {
+        "employee_id":37,
+        "name":"Cynthia Allen",
+        "position":"Software Engineer",
+        "start_date":"2021-08-09T00:00:00.000",
+        "salary":71390,
+        "department_id":2
+    },
+    {
+        "employee_id":38,
+        "name":"Angelica Tucker",
+        "position":"Data Analyst",
+        "start_date":"2022-01-27T00:00:00.000",
+        "salary":180435,
+        "department_id":3
+    },
+    {
+        "employee_id":39,
+        "name":"Kim Martinez",
+        "position":"Cybersecurity Analyst",
+        "start_date":"2023-09-14T00:00:00.000",
+        "salary":92722,
+        "department_id":4
+    },
+    {
+        "employee_id":40,
+        "name":"Joshua Baker",
+        "position":"Cloud Engineer",
+        "start_date":"2024-12-04T00:00:00.000",
+        "salary":159230,
+        "department_id":5
+    },
+    {
+        "employee_id":41,
+        "name":"Tracey Hickman",
+        "position":"IT Support Specialist",
+        "start_date":"2015-10-21T00:00:00.000",
+        "salary":80656,
+        "department_id":1
+    },
+    {
+        "employee_id":42,
+        "name":"Christina Collins",
+        "position":"Database Administrator",
+        "start_date":"2016-09-17T00:00:00.000",
+        "salary":136854,
+        "department_id":2
+    },
+    {
+        "employee_id":43,
+        "name":"Jessica Holmes",
+        "position":"Software Engineer",
+        "start_date":"2017-02-16T00:00:00.000",
+        "salary":154800,
+        "department_id":3
+    },
+    {
+        "employee_id":44,
+        "name":"Austin Smith",
+        "position":"Data Analyst",
+        "start_date":"2018-08-04T00:00:00.000",
+        "salary":110407,
+        "department_id":4
+    },
+    {
+        "employee_id":45,
+        "name":"Daniel Jones",
+        "position":"Cybersecurity Analyst",
+        "start_date":"2019-09-03T00:00:00.000",
+        "salary":78233,
+        "department_id":5
+    },
+    {
+        "employee_id":46,
+        "name":"Austin Johnson",
+        "position":"Cloud Engineer",
+        "start_date":"2020-05-08T00:00:00.000",
+        "salary":72012,
+        "department_id":1
+    },
+    {
+        "employee_id":47,
+        "name":"David Caldwell",
+        "position":"IT Support Specialist",
+        "start_date":"2021-03-25T00:00:00.000",
+        "salary":119742,
+        "department_id":2
+    },
+    {
+        "employee_id":48,
+        "name":"Miranda Khan",
+        "position":"Database Administrator",
+        "start_date":"2022-08-12T00:00:00.000",
+        "salary":135861,
+        "department_id":3
+    },
+    {
+        "employee_id":49,
+        "name":"Richard Aguirre",
+        "position":"Software Engineer",
+        "start_date":"2023-03-15T00:00:00.000",
+        "salary":80916,
+        "department_id":4
+    },
+    {
+        "employee_id":50,
+        "name":"Matthew Gomez",
+        "position":"Data Analyst",
+        "start_date":"2024-06-08T00:00:00.000",
+        "salary":121024,
+        "department_id":5
+    }
+]

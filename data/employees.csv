@@ -1,0 +1,52 @@
+employee_id,name,position,start_date,salary,department_id,department_name,work_location,annual_budget
+1,Amina Tesfay,Software Engineer,2015-01-01,65000,1,Software Engineering,Toronto,4200000
+2,Daniel Ahmed,Data Analyst,2016-02-02,72100,2,Cybersecurity,Waterloo,2800000
+3,,Cybersecurity Analyst,2017-03-03,79200,3,Data and Analytics,Ottawa,3200000
+4,Samuel Yohannes,Cloud Engineer,2018-04-04,86300,4,IT Operations,Kitchener,2100000
+5,Marta Okafor,data analyst,2019-05-05,93400,5,Cloud Infrastructure,Vancouver,3500000
+6,Noah Kamau,Database Administrator,2020-06-06,100500,1,Software Engineering,Toronto,4200000
+7,Sara Njoroge,Software Engineer,not-a-date,107600,2,Cybersecurity,Waterloo,2800000
+8,Michael Mensah,Data Analyst,2022-08-08,,3,Data and Analytics,Ottawa,3200000
+9,Hana Bekele,Cybersecurity Analyst,2023-09-09,121800,4,cyber security,Kitchener,2100000
+10,David Abebe, Software Engineer ,2024-10-10,128900,5,Cloud Infrastructure,Vancouver,3500000
+11,Amina Tesfay,IT Support Specialist,2015-11-11,136000,1,Software Engineering,Toronto,4200000
+12,Daniel Ahmed,Database Administrator,2016-12-12,143100,2,IT Operations ,Waterloo,2800000
+13,Liya Diallo,Software Engineer,2017-01-13,45000,3,Data and Analytics,Ottawa,3200000
+14,Samuel Yohannes,Data Analyst,2018-02-14,157300,4,IT Operations,Kitchener,2100000
+15,Marta Okafor,IT-support specialist,2019-03-15,164400,5,Cloud Infrastructure,Vancouver,3500000
+16,Noah Kamau,Cloud Engineer,2030-01-01,171500,1,Software Engineering,Toronto,4200000
+17,Sara Njoroge,IT Support Specialist,2021-05-17,178600,2,Cybersecurity,Waterloo,2800000
+18,Michael Mensah,Database Administrator,2022-06-18,185700,3,Data and Analytics,waterloo,3200000
+19,Hana Bekele,Software Engineer,2023-07-19,250000,4,IT Operations,Kitchener,2100000
+20,David Abebe,Data Analyst,2024-08-20,74900,5,Cloud Infrastructure,Vancouver,3500000
+21,  John Smith  ,Cybersecurity Analyst,2015-09-21,82000,1,Software Engineering,Toronto,4200000
+22,Daniel Ahmed,Cloud Engineer,2016-10-22,89100,2,Cybersecurity,Waterloo,2800000
+23,Liya Diallo,IT Support Specialist,2017-11-23,96200,3,Data and Analytics,,3200000
+24,Samuel Yohannes,Database Administrator,2018-12-24,103300,4,IT Operations,Kitchener,2100000
+25,Marta Okafor,Software Engineer,2019-01-25,110400,5,Cloud Infrastructure,Vancouver,3500000
+26,Noah Kamau,Data Analyst,2020-02-26,117500,1,Software Engineering,Toronto,-500000
+27,Sara Njoroge,Cybersecurity Analyst,2021-03-27,124600,2,Cybersecurity,Waterloo,2800000
+28,Michael Mensah,Cloud Engineer,2022-04-01,131700,3,Data and Analytics,Ottawa,3200000
+29,Hana Bekele,IT Support Specialist,2023-05-02,138800,4,IT Operations,Kitchener,2100000
+30,David Abebe,Database Administrator,2024-06-03,145900,5,Cloud Infrastructure,Vancouver,"3,200,000"
+31,Amina Tesfay,Software Engineer,2015-07-04,153000,1,Software Engineering,Toronto,4200000
+32,Daniel Ahmed,Data Analyst,2016-08-05,160100,2,Cybersecurity,Waterloo,2800000
+33,Liya Diallo,Cybersecurity Analyst,2017-09-06,167200,3,Data and Analytics,Ottawa,3200000
+34,Samuel Yohannes,Cloud Engineer,2018-10-07,174300,4,IT Operations,Kitchener,2100000
+35,Marta Okafor,IT Support Specialist,2019-11-08,181400,5,Cloud Infrastructure,Vancouver,3500000
+36,Noah Kamau,Database Administrator,2020-12-09,188500,1,Software Engineering,Toronto,4200000
+37,Sara Njoroge,Software Engineer,2021-01-10,70600,2,Cybersecurity,Waterloo,2800000
+38,Michael Mensah,Data Analyst,2022-02-11,77700,3,Data and Analytics,Ottawa,3200000
+39,Hana Bekele,Cybersecurity Analyst,2023-03-12,84800,4,IT Operations,Kitchener,2100000
+40,David Abebe,Cloud Engineer,2024-04-13,91900,5,Cloud Infrastructure,Vancouver,3500000
+41,Amina Tesfay,IT Support Specialist,2015-05-14,99000,1,Software Engineering,Toronto,4200000
+42,Daniel Ahmed,Database Administrator,2016-06-15,106100,2,Cybersecurity,Waterloo,2800000
+43,Liya Diallo,Software Engineer,2017-07-16,113200,3,Data and Analytics,Ottawa,3200000
+44,Samuel Yohannes,Data Analyst,2018-08-17,120300,4,IT Operations,Kitchener,2100000
+45,Marta Okafor,Cybersecurity Analyst,2019-09-18,127400,5,Cloud Infrastructure,Vancouver,3500000
+46,Noah Kamau,Cloud Engineer,2020-10-19,134500,1,Software Engineering,Toronto,4200000
+47,Sara Njoroge,IT Support Specialist,2021-11-20,141600,2,Cybersecurity,Waterloo,2800000
+48,Michael Mensah,Database Administrator,2022-12-21,148700,3,Data and Analytics,Ottawa,3200000
+49,Hana Bekele,Software Engineer,2023-01-22,155800,4,IT Operations,Kitchener,2100000
+50,David Abebe,Data Analyst,2024-02-23,162900,5,Cloud Infrastructure,Vancouver,3500000
+6,Noah Kamau,Database Administrator,2020-06-06,100500,1,Software Engineering,Toronto,4200000
